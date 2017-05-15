@@ -8,10 +8,11 @@ class App extends React.Component{
      }
     render() {
         return(
-            <div>
-                <h3>Photos Export App</h3>
-                <Fblogin/>
-            </div>
+
+        <div>
+            <h3>Photos export app</h3>
+            <Fblogin/>
+        </div>
         );
     }
 }
