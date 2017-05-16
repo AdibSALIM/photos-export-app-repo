@@ -49,7 +49,7 @@ export class Fblogin extends React.Component {
                  data-show-faces="false"
                  data-auto-logout-link="false"
                  href="javascript:void(0)">
-                Login
+                Login with facebook
             </div>
         );
     }
