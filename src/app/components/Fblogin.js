@@ -44,6 +44,7 @@ export class Fblogin extends React.Component {
     render(){
 
         return (
+
             <div className="fb-login-button" data-max-row="5"
                  data-size="large"
                  data-show-faces="false"
